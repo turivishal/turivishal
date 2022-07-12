@@ -14,6 +14,8 @@
 
 - [MongoDB community forum](https://www.mongodb.com/community/forums/u/turivishal/summary)
 
+- [Facebook community](https://developers.facebook.com/community/profile/5188916841201353)
+
 - [Coding Coach](https://mentors.codingcoach.io/?name=Vishal+Turi)
 
 - [NPM](https://www.npmjs.com/~turivishal)
