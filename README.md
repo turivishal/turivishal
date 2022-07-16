@@ -16,6 +16,8 @@
 
 - [Facebook community](https://developers.facebook.com/community/profile/5188916841201353)
 
+- [Medium Stories](https://medium.com/@turivishal)
+
 - [Coding Coach](https://mentors.codingcoach.io/?name=Vishal+Turi)
 
 - [NPM](https://www.npmjs.com/~turivishal)
