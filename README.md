@@ -14,6 +14,8 @@
 
 - [MongoDB community forum](https://www.mongodb.com/community/forums/u/turivishal/summary)
 
+- [MongoDB Certified Associate Developer](https://learn.mongodb.com/c/NrBRPWcGRoa1mac_-R8Y9w)
+
 - [Facebook community](https://developers.facebook.com/community/profile/5188916841201353)
 
 - [Medium Stories](https://medium.com/@turivishal)
